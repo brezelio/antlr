@@ -1,5 +1,5 @@
 {
-  "name": "brezelio/antlr-php-runtime",
+  "name": "brezelio/antlr",
   "type": "library",
   "description": "PHP 7 and 8.0 runtime for ANTLR 4",
   "keywords": ["antlr4", "php", "runtime"],
